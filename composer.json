@@ -4,7 +4,7 @@
     "description": "Reveal Static bugs in Configs Files and Templates",
     "require": {
         "php": ">=8.1",
-        "latte/latte": "^2.11",
+        "latte/latte": "^2.11|^3.0",
         "nette/application": "^3.1",
         "nette/bootstrap": "^3.1",
         "nette/di": "^3.0",
